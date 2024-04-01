@@ -16,6 +16,8 @@ Camera matrix (K) =
  Distortion coefficient (k1, k2, p1, p2, k3, ...) = [ 0.00020659  0.02590867 -0.00105908  0.00307626 -0.02384998]
 
 
+ ![chessboard01](https://github.com/Hongyooungi/video_callibration/assets/127743990/7676d619-da5d-49e8-b64d-c1ac6cc71490)
+
  
 
  - 카메라 렌즈 왜곡 보정 기능 -
