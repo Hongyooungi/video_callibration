@@ -18,10 +18,14 @@ Camera matrix (K) =
 
  ![chessboard01](https://github.com/Hongyooungi/video_callibration/assets/127743990/7676d619-da5d-49e8-b64d-c1ac6cc71490)
 
+
+
  
 
  - 카메라 렌즈 왜곡 보정 기능 -
 
 1. 위의 캘리브레이션을 통해 얻은 값들로 distortion_correction.py를 통해 렌즈 왜곡 보정 수행
 
+
+![chessboard02](https://github.com/Hongyooungi/video_callibration/assets/127743990/6ff2e201-f228-4240-beea-eeace4bcbad6)
  
