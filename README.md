@@ -28,4 +28,9 @@ Camera matrix (K) =
 
 
 ![chessboard02](https://github.com/Hongyooungi/video_callibration/assets/127743990/6ff2e201-f228-4240-beea-eeace4bcbad6)
+
+
+- 본 동영상은 갤럭시 카메라의 광각 모드를 사용하여 촬영을 하였다.
+고프로와는 달리 카메라의 렌즈 왜곡 현상이 두드러지게 나타나지 않아서 카메라 왜곡 보정이 잘 되었는지 육안으로 판단하기 어렵다.
+따라서, 왜곡이 심한 고프로와 같은 카메라로 테스트를 해보아야 할 것 같다. 
  
